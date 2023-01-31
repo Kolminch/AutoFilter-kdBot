@@ -150,14 +150,14 @@ ID - <code>{}</code>
 
 Nᴀᴍᴇ - {}</b>
 """
-    ALRT_TXT = """⚠️ 𝖧ᴇʏ !
+    ALRT_TXT = """⚠️ 𝖧ᴇʏ ᴅᴜᴅᴇ !
     
 𝖲ᴇᴀʀᴄʜ 𝖸ᴏᴜʀ 𝖮ᴡɴ 𝖥ɪʟᴇ, 
     
 𝖣ᴏɴ'ᴛ 𝖢ʟɪᴄᴋ 𝖮ᴛʜᴇʀ𝗌 𝖱ᴇ𝗌ᴜʟᴛ𝗌 😬
 """
 
-    OLD_ALRT_TXT = """⚠️ 𝖧ᴇʏ ! 
+    OLD_ALRT_TXT = """⚠️ 𝖧ᴇʏ ᴅᴜᴅᴇ ! 
     
 𝖸ᴏᴜ Aʀᴇ U𝗌ɪɴɢ Oɴᴇ Oғ Mʏ Oʟᴅ Mᴇ𝗌𝗌ᴀɢᴇ𝗌, 
     
@@ -190,7 +190,7 @@ Rᴇᴀsᴏɴs
 𝟸) Tʏᴘᴇ Nᴀᴍᴇ Wɪᴛʜ Yᴇᴀʀ
 
 𝟹) Mᴏᴠɪᴇ Is Nᴏᴛ Aᴠᴀɪʟᴀʙʟᴇ ɪɴ ᴛʜᴇ Dᴀᴛᴀʙᴀsᴇ 
-Rᴇᴘᴏʀᴛ Hᴇʀᴇ @AlexaMoviesupportbot</b>
+Rᴇᴘᴏʀᴛ Hᴇʀᴇ 👉  @AlexaMoviesupportbot</b>
 """
 
     TOP_ALRT_MSG = """Cʜᴇᴄᴋɪɴɢ Fᴏʀ Mᴏᴠɪᴇ Iɴ Dᴀᴛᴀʙᴀsᴇ...
