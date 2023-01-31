@@ -22,10 +22,10 @@ TIMEZONE = environ.get("TIMEZONE", "Asia/Kolkata")
 CACHE_TIME = int(environ.get('CACHE_TIME', 300))
 USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', True))
 
-PICS = (environ.get('PICS', 'https://telegra.ph/file/705593c3ae56831c8e565.jpg https://telegra.ph/file/869de5ba9ac7e61559f24.jpg https://telegra.ph/file/4f3d1cc0b1375ae596b16.jpg')).split()
+PICS = (environ.get('PICS', 'https://telegra.ph/file/fd7acc3383fab26710c37.png')).split()
 NOR_IMG = environ.get("NOR_IMG", "https://telegra.ph/file/46443096bc6895c74a716.jpg")
 SPELL_IMG = environ.get("SPELL_IMG", "https://telegra.ph/file/b60d2facc538ad82ad22d.jpg")
-NEWGRP = environ.get("NEWGRP", "https://telegra.ph/file/705593c3ae56831c8e565.jpg")
+NEWGRP = environ.get("NEWGRP", "https://telegra.ph/file/fd7acc3383fab26710c37.png")
 
 # Admins, Channels & Users
 ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '').split()]
@@ -44,14 +44,14 @@ DATABASE_NAME = environ.get('DATABASE_NAME', "EvaMaria")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
 # Channel Button Links
-GRP_LNK = environ.get('GRP_LNK', 'https://t.me/kdbotz_support')
-CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/kd_botz')
-SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'kdbotz_Support')
+GRP_LNK = environ.get('GRP_LNK', 'https://t.me/alexa_movies')
+CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/alexa_movies')
+SUPPORT_CHAT = environ.get('SUPPORT_CHAT', '@AlexaMoviesupportbot')
 MSG_ALRT = environ.get('MSG_ALRT', 'Share and Support Us')
 
 # Custom Chats
 SUPPORT_GROUP = int(environ.get('SUPPORT_GROUP', 0))
-HOW_DWLD_LINK = environ.get('HOW_DWLD_LINK', 'https://t.me/How_To_Download_MDisk_Links/10')
+HOW_DWLD_LINK = environ.get('HOW_DWLD_LINK', 'https://t.me/firelinksguide')
 
 # Log Channels
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', 0))
