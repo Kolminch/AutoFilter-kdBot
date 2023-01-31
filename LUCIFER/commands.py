@@ -24,14 +24,14 @@ async def start(client, message):
         buttons = [[
                     InlineKeyboardButton('⤬ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ⤬', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
                   ],[
-                    InlineKeyboardButton('Uᴘᴅᴀᴛᴇs', url='https://t.me/kd_botz'),
-                    InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ', url='https://t.me/kdbotz_support')
+                    InlineKeyboardButton('Uᴘᴅᴀᴛᴇs', url='https://t.me/alexa_movies'),
+                    InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ', url='https://t.me/AlexaMoviesupportbot')
                   ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         kd = await message.reply_photo(
         photo=random.choice(PICS),
         caption=script.START_TXT.format(message.from_user.mention if message.from_user else message.chat.title, temp.U_NAME, temp.B_NAME), reply_markup=reply_markup)
-        await asyncio.sleep(20)
+        await asyncio.sleep(300)
         await kd.delete()
         await message.delete()
 
@@ -155,8 +155,8 @@ async def start(client, message):
                     reply_markup=InlineKeyboardMarkup(
                         [
                          [
-                          InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=GRP_LNK),
-                          InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
+                          
+                          InlineKeyboardButton('𝚄𝚙𝚍𝚊𝚝𝚎 𝚌𝚑𝚊𝚗𝚗𝚎𝚕', url=CHNL_LNK)
                        ]
                         ]
                     )
@@ -172,8 +172,8 @@ async def start(client, message):
                     reply_markup=InlineKeyboardMarkup(
                         [
                          [
-                          InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=GRP_LNK),
-                          InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
+                         
+                          InlineKeyboardButton('𝚄𝚙𝚍𝚊𝚝𝚎 𝚌𝚑𝚊𝚗𝚗𝚎𝚕', url=CHNL_LNK)
                        ]
                         ]
                     )
@@ -241,8 +241,8 @@ async def start(client, message):
                 reply_markup=InlineKeyboardMarkup(
                     [
                      [
-                      InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=GRP_LNK),
-                      InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
+                      
+                      InlineKeyboardButton('𝚄𝚙𝚍𝚊𝚝𝚎 𝚌𝚑𝚊𝚗𝚗𝚎𝚕', url=CHNL_LNK)
                    ]
                     ]
                 )
@@ -282,8 +282,8 @@ async def start(client, message):
         reply_markup=InlineKeyboardMarkup(
             [
              [
-              InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=GRP_LNK),
-              InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
+              
+              InlineKeyboardButton('𝚄𝚙𝚍𝚊𝚝𝚎 𝚌𝚑𝚊𝚗𝚗𝚎𝚕', url=CHNL_LNK)
            ]
             ]
         )
