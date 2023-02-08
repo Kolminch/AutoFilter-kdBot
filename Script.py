@@ -114,20 +114,15 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
 <b></b>"""
 
-    ADMIN_STATUS_TXT = """<b>⍟────[ ʙᴏᴛ sᴛᴀᴛᴜ𝗌 ]────⍟</b>
-
-<b>⏳ ʙᴏᴛ ᴜᴘᴛɪᴍᴇ:</b> <code>{}</code>
-
-<b> ᴄᴘᴜ:</b> <code>{}%</code>
-<b> ʀᴀᴍ:</b> <code>{}%</code>
-<b> ғɪʟᴇs sᴀᴠᴇᴅ:</b> <code>{}</code>
-<b> ᴜsᴇʀs:</b> <code>{}</code>
-<b> ɢʀᴏᴜᴘs:</b> <code>{}</code>
-<b> ᴛᴏᴛᴀʟ:</b> <code>512 MB</code>
-<b> ᴏᴄᴄᴜᴘɪᴇᴅ:</b> <code>{}</code>
-<b> ғʀᴇᴇ:</b> <code>{}</code>
-
-<b>⍟────[ 🌼 ]─────⍟</b>"""
+    ADMIN_STATUS_TXT = """       [ ʙᴏᴛ sᴛᴀᴛᴜ𝗌 ]
+★ 𝙲𝙿𝚄 : <code>{}%</code>
+★ 𝚁𝙰𝙼 : <code>{}%</code
+★ 𝚃𝙾𝚃𝙰𝙻 𝙵𝙸𝙻𝙴𝚂: <code>{}</code>
+★ 𝚃𝙾𝚃𝙰𝙻 𝚄𝚂𝙴𝚁𝚂: <code>{}</code>
+★ 𝚃𝙾𝚃𝙰𝙻 𝙲𝙷𝙰𝚃𝚂: <code>{}</code>
+★ 𝚄𝚂𝙴𝙳 𝚂𝚃𝙾𝚁𝙰𝙶𝙴: <code>{}</code> 𝙼𝚒𝙱
+★ 𝙵𝚁𝙴𝙴 𝚂𝚃𝙾𝚁𝙰𝙶𝙴: <code>{}</code> 𝙼𝚒𝙱
+★ 𝙰𝙲𝙲𝚄𝙿𝙰𝙸𝙳 𝚂𝙿𝙰𝙲𝙴: <code>{}</code> 𝙼𝚒𝙱"""
 
     LOG_TEXT_G = """<b>#NewGroup
     
