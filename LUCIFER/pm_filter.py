@@ -535,8 +535,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
         buttons = [[
                     InlineKeyboardButton('➕ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
                 ],[
-                    InlineKeyboardButton('🍁 Oᴡɴᴇʀ', callback_data="owner_info"),
-                    InlineKeyboardButton('🌿 Sᴜᴘᴘᴏʀᴛ', callback_data="kd_cnl")
+                    InlineKeyboardButton('🔍 Search', switch_inline_query_current_chat="),
+                    InlineKeyboardButton('🍁 Oᴡɴᴇʀ', callback_data="owner_info")
                 ],[
                     InlineKeyboardButton('❗ Hᴇʟᴘ', callback_data='help'),
                     InlineKeyboardButton('🕵️ Aʙᴏᴜᴛ', callback_data='about'),
@@ -737,24 +737,6 @@ async def cb_handler(client: Client, query: CallbackQuery):
             reply_markup = InlineKeyboardMarkup(miscbtn)
             await query.message.edit_text(
                 text=(script.KD_MISC),
-                reply_markup=reply_markup,
-                parse_mode=enums.ParseMode.HTML
-            )
-    elif query.data == "kd_cnl":
-            cnlbtn = [[
-                      InlineKeyboardButton('Bᴏᴛ Lᴏɢs', url="https://t.me/alexa_movies")
-                     ], [
-                      InlineKeyboardButton('Gʀᴏᴜᴘ', url='https://t.me/+3Fvx3228eM8zNmU1'),
-                      InlineKeyboardButton('Cʜᴀɴɴᴇʟ', url='https://t.me/alexa_movies')
-                     ], [
-                      InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ', url='https://t.me/AlexaMoviesupportbot'),
-                      InlineKeyboardButton('Uᴘᴅᴀᴛᴇs', url='https://t.me/alexa_movies')
-                     ], [
-                      InlineKeyboardButton("⟸ Bᴀᴄᴋ", callback_data="start")
-                     ]]
-            reply_markup = InlineKeyboardMarkup(cnlbtn)
-            await query.message.edit_text(
-                text=(script.KD_CNL),
                 reply_markup=reply_markup,
                 parse_mode=enums.ParseMode.HTML
             )
