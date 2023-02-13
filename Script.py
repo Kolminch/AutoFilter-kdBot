@@ -120,9 +120,8 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 ★ 𝚃𝙾𝚃𝙰𝙻 𝙵𝙸𝙻𝙴𝚂: <code>{}</code>
 ★ 𝚃𝙾𝚃𝙰𝙻 𝚄𝚂𝙴𝚁𝚂: <code>{}</code>
 ★ 𝚃𝙾𝚃𝙰𝙻 𝙲𝙷𝙰𝚃𝚂: <code>{}</code>
-★ 𝚄𝚂𝙴𝙳 𝚂𝚃𝙾𝚁𝙰𝙶𝙴: <code>{}</code> 𝙼𝚒𝙱
-★ 𝙵𝚁𝙴𝙴 𝚂𝚃𝙾𝚁𝙰𝙶𝙴: <code>{}</code> 𝙼𝚒𝙱
-★ 𝙰𝙲𝙲𝚄𝙿𝙰𝙸𝙳 𝚂𝙿𝙰𝙲𝙴: <code>{}</code> 𝙼𝚒𝙱"""
+★ 𝙰𝙲𝙲𝚄𝙿𝙰𝙸𝙳 𝚂𝙿𝙰𝙲𝙴: <code>{}</code> 𝙼𝚒𝙱
+★ 𝙵𝚁𝙴𝙴 𝚂𝚃𝙾𝚁𝙰𝙶𝙴: <code>{}</code> 𝙼𝚒𝙱"""
 
     LOG_TEXT_G = """<b>#NewGroup
     
@@ -189,7 +188,9 @@ Rᴇᴘᴏʀᴛ Hᴇʀᴇ 👉  @AlexaMoviesupportbot</b>
 <b>⍟───[ ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ ]───⍟
     
 • ꜰᴜʟʟ ɴᴀᴍᴇ : <a href='https://t.me/alexa_movies'>𝐀𝐋𝐄𝐗𝐀 𝐌𝐎𝐕𝐈𝐄𝐒『🇮🇳』</a></b>
+
 • ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='https://t.me/AlexaMoviesupportbot'>αℓєχαмσνιє ѕυρρσят</a></b>
+
 • ᴘᴏᴡᴇʀᴇᴅ ʙʏ : <a href='https://t.me/AlexaMoviesupportbot'>ᴀᴅᴍɪɴs</a></b>
 """
 
