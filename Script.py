@@ -11,9 +11,9 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     ABOUT_TXT = """<b>✯ Mʏ Nᴀᴍᴇ : {}</b>
 
-<b>✯ Cʀᴇᴀᴛᴏʀ : <a href=https://t.me/AlexaMoviesupportbot>〖 C҉͓̟͇̼͕̻ͭ͌ͩ̒͘͜͡͞͠l̶҉̰͚͖͕̍̈́̅͗̏̇͢͜͜͝i҉̧̯̤̙͔̑ͧ̅̔ͦ́͜͟͢͝͠c̷̶҉̵̢͚̣̻̲̬͑̑͛͐̀͜͜͜͝͡͝͠k҉̴̶̬͈̫̹͖̾̎ͭ́̍̐͜͜͝͠ h̷̶̘̘̬ͭ̏͞͡e̵̡̫̫͍͕̎ͭ̐͟͟͝͞r҉̵҉̛̠̩̥̋ͦ̆͆͟͞͡͞͠e̵̡̫̫͍͕̎ͭ̐͟͟͝͞ 〗 </a></b>
+<b>✯ Cʀᴇᴀᴛᴏʀ : <a href=https://t.me/AlexaMoviesupportbot>〖𝙲𝚕𝚒𝚌𝚔 𝚑𝚎𝚛𝚎〗 </a></b>
 
-<b>✯ Uᴘᴅᴀᴛᴇs : <a href=https://t.me/alexa_movies>ᴀʟᴇxᴀ ᴍᴏᴠɪᴇᴤ </a></b>
+<b>✯ Uᴘᴅᴀᴛᴇs : <a href=https://t.me/alexa_movies>𝙰𝚕𝚎𝚡 𝚖𝚘𝚟𝚒𝚎𝚜 </a></b>
 
 <b>✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs : ᴠ2.0.62 [Sᴛᴀʙʟᴇ]</b>"""
 
