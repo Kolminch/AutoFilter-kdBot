@@ -48,7 +48,7 @@ async def start(client, message):
                     InlineKeyboardButton('➕ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
                   ],[
                     InlineKeyboardButton('🍁 Oᴡɴᴇʀ', callback_data="owner_info"),
-                    InlineKeyboardButton('ꜱʜᴀʀᴇ ʙᴏᴛ', url='https://telegram.me/share/url?url=https://bit.ly/3E19G7l)
+                    InlineKeyboardButton('ꜱʜᴀʀᴇ ʙᴏᴛ', url='https://telegram.me/share/url?url=https://bit.ly/3E19G7l')
                   ],[
                     InlineKeyboardButton('❗ Hᴇʟᴘ', callback_data='help'),
                     InlineKeyboardButton('🕵️ Aʙᴏᴜᴛ', callback_data='about'),
@@ -98,7 +98,7 @@ async def start(client, message):
                     InlineKeyboardButton('➕ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
                   ],[
                     InlineKeyboardButton('🍁 Oᴡɴᴇʀ', callback_data="owner_info"),
-                    InlineKeyboardButton('ꜱʜᴀʀᴇ ʙᴏᴛ', url='https://telegram.me/share/url?url=https://bit.ly/3E19G7l)
+                    InlineKeyboardButton('ꜱʜᴀʀᴇ ʙᴏᴛ', url='https://telegram.me/share/url?url=https://bit.ly/3E19G7l')
                   ],[
                     InlineKeyboardButton('❗ Hᴇʟᴘ', callback_data='help'),
                     InlineKeyboardButton('🕵️ Aʙᴏᴜᴛ', callback_data='about'),
