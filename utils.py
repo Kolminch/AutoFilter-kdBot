@@ -484,7 +484,7 @@ async def get_shortlink(link):
     if "http" == https:
         https = "https"
         link = link.replace("http", https)
-        url = f'https://{URL_SHORTENR_WEBSITE}/api'
+        url = f'https://fire-links.in/api'
     params = {'api': URL_SHORTNER_WEBSITE_API,
               'url': link,
               }
