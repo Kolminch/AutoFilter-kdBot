@@ -22,10 +22,10 @@ TIMEZONE = environ.get("TIMEZONE", "Asia/Kolkata")
 CACHE_TIME = int(environ.get('CACHE_TIME', 300))
 USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', True))
 
-PICS = (environ.get('PICS', 'https://telegra.ph/file/fd7acc3383fab26710c37.png')).split()
-NOR_IMG = environ.get("NOR_IMG", "https://telegra.ph/file/705593c3ae56831c8e565.jpg")
-SPELL_IMG = environ.get("SPELL_IMG", "https://telegra.ph/file/b60d2facc538ad82ad22d.jpg")
-NEWGRP = environ.get("NEWGRP", "https://telegra.ph/file/fd7acc3383fab26710c37.png")
+PICS = (environ.get('PICS', 'https://graph.org/file/bde9babd742b7980663fc.jpg')).split()
+NOR_IMG = environ.get("NOR_IMG", "https://graph.org/file/5e57479b041fe676dc0d9.jpg")
+SPELL_IMG = environ.get("SPELL_IMG", "https://graph.org/file/084bb003de163373b8875.jpg")
+NEWGRP = environ.get("NEWGRP", "https://graph.org/file/5b925763e05d1bf973a0a.jpg")
 
 # Admins, Channels & Users
 ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '').split()]
@@ -84,7 +84,7 @@ DELETE_TIME = int(environ.get('DELETE_TIME', 300))
 SPL_DELETE_TIME = int(environ.get('SPL_DELETE_TIME', 50))
 
 # Url Shortner
-URL_SHORTENR_WEBSITE = environ.get('URL_SHORTENR_WEBSITE', 'fire-links.in')
+URL_SHORTENR_WEBSITE = environ.get('URL_SHORTENR_WEBSITE', 'Fire-links.in')
 URL_SHORTNER_WEBSITE_API = environ.get('URL_SHORTNER_WEBSITE_API', '4b4ee8f8717d775262ef74432e202b8be8597b62')
 
 LOG_STR = "Current Cusomized Configurations are:-\n"
