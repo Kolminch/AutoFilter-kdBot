@@ -189,11 +189,11 @@ Rᴇᴘᴏʀᴛ Hᴇʀᴇ 👉  @AlexaMoviesupportbot</b>
     OWNER_INFO = """
 <b>⍟───[ ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ ]───⍟
     
-• ꜰᴜʟʟ ɴᴀᴍᴇ : <a href='https://t.me/alexa_movies'>𝐀𝐋𝐄𝐗𝐀 𝐌𝐎𝐕𝐈𝐄𝐒『🇮🇳』</a></b>
+• ꜰᴜʟʟ ɴᴀᴍᴇ : <a href='https://t.me/alexa_movies'>ᴀʟᴇxᴀ ᴍᴏᴠɪᴇs『🇮🇳』</a></b>
 
-• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='https://t.me/AlexaMoviesupportbot'>αℓєχαмσνιє ѕυρρσят</a></b>
+• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='https://t.me/AlexaMoviesupportbot'>ᴀʟᴇxᴀ ᴍᴏᴠɪᴇs sᴜᴘᴘᴏʀᴛ</a></b>
 
-• ᴘᴏᴡᴇʀᴇᴅ ʙʏ : <a href='https://t.me/AlexaMoviesupportbot'>ᴀᴅᴍɪɴs</a></b>
+• ᴘᴏᴡᴇʀᴇᴅ ʙʏ : <a href='https://t.me/AlexaMoviesupportbot'>ᴀᴅᴍɪɴ</a></b>
 """
 
     KD_IMDB = """
