@@ -114,14 +114,16 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
 <b></b>"""
 
-    ADMIN_STATUS_TXT = """       [ ʙᴏᴛ sᴛᴀᴛᴜ𝗌 ]
-★ 𝙲𝙿𝚄 : <code>{}%</code>
-★ 𝚁𝙰𝙼 : <code>{}%</code
-★ 𝚃𝙾𝚃𝙰𝙻 𝙵𝙸𝙻𝙴𝚂: <code>{}</code>
+    ADMIN_STATUS_TXT = """.       [ ʙᴏᴛ sᴛᴀᴛᴜ𝗌 ]
+★ 𝙱𝙾𝚃 𝚄𝙿𝚃𝙸𝙼𝙴:</b> <code>{}</code>
+★ 𝙲𝙿𝚄: <code>{}%</code>
+★ 𝚁𝙰𝙼: <code>{}%</code>
+★ 𝚂𝙰𝚅𝙴𝙳 𝙵𝙸𝙻𝙴𝚂: <code>{}</code>
 ★ 𝚃𝙾𝚃𝙰𝙻 𝚄𝚂𝙴𝚁𝚂: <code>{}</code>
 ★ 𝚃𝙾𝚃𝙰𝙻 𝙲𝙷𝙰𝚃𝚂: <code>{}</code>
-★ 𝙰𝙲𝙲𝚄𝙿𝙰𝙸𝙳 𝚂𝙿𝙰𝙲𝙴: <code>{}</code> 𝙼𝚒𝙱
-★ 𝙵𝚁𝙴𝙴 𝚂𝚃𝙾𝚁𝙰𝙶𝙴: <code>{}</code> 𝙼𝚒𝙱"""
+★ 𝚃𝙾𝚃𝙰𝙻 𝚂𝙿𝙰𝙲𝙴: <code>512 MB</code>
+★ 𝙰𝙲𝙲𝚄𝙿𝙰𝙸𝙳 𝚂𝙿𝙰𝙲𝙴: <code>{}</code>
+★ 𝙵𝚁𝙴𝙴 𝚂𝚃𝙾𝚁𝙰𝙶𝙴: <code>{}</code>"""
 
     LOG_TEXT_G = """<b>#NewGroup
     
